@@ -8,7 +8,7 @@ Now I am 13 years old, but despite this small actual age, I behave much more ser
 - Actively learning JavaScript
 - I know how to properly distribute tasks
 - Learning App Development
-- I love eating pistachios and pizza.
+- Love eating pistachios and pizza.
 
 
 ## Languages I use:
