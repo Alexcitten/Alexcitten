@@ -18,8 +18,8 @@ Now I am 13 years old, but despite this small actual age, I behave much more ser
 
 
 ### Languages that I know
- Russian: C2<br>
- Ukrainian: С1<br>
+ Russian: C1<br>
+ Ukrainian: С2<br>
  English: A2<br>
  
 ## I know:
