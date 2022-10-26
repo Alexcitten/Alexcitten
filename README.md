@@ -5,9 +5,9 @@ Now I am 13 years old, but despite this small actual age, I behave much more ser
 
 ## Currently I'm:
 
-- Actively learning JavaScript
+- Actively learning JavaScript and frameworks
 - I know how to properly distribute tasks
-- Learning App Development
+- Learning Web Development
 - Love eating pistachios and pizza.
 
 
