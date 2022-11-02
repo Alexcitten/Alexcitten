@@ -1,5 +1,5 @@
 Hello there, I'm Alexcitten! I'm learning JavaScript to create something unusual. For example - my [Discord Bot](https://github.com/Alexcitten/ArLetDiscordBot). I create useful and interesting things that are unusual in functionality and implementation, or I think that it could be better, because there are already so many projects in the world!
-Now I am 13 years old, but despite this small actual age, I behave much more seriously, more literately, and I can easily conduct conversations about collaborations, projects, and similar topics.
+Now I am 14 years old, but despite this small actual age, I behave much more seriously, more literately, and I can easily conduct conversations about collaborations, projects, and similar topics.
 
 > To recruit and retain smart people, you need to make it easy for them to collaborate with other smart people. © Bill Gates
 
