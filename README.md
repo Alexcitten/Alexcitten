@@ -30,4 +30,4 @@ Now I am 14 years old, but despite this small actual age, I behave much more ser
 I also study Figma and already know how to create various banners
 
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Alexcitten&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,AFBAAF,596159,343B34&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexcitten&hide_title=true&layout=compact&bg_color=0,AFBAAF,596159,343B34&theme=graywhite" />
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Alexcitten&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,343B34,596159,AFBAAF&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexcitten&hide_title=true&layout=compact&bg_color=0,AFBAAF,596159,343B34&theme=graywhite" />
