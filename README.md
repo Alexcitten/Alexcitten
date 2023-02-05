@@ -6,7 +6,7 @@ Hi there! I'm Alexcitten, a friendly and sociable programmer with good objective
 
 I started my journey in programming by developing Discord bots. Currently, I'm working on web3-related bots using decentralised systems for bot functionality that can do interesting things in centralised messengers. I'm actively involved in one side of the interaction with unique smart contracts for the NFT marketplace.
 
-Despite my young age, I take my work seriously and can easily discuss collaborations, projects, and related topics.
+Despite my young age(14), I take my work seriously and can easily discuss collaborations, projects, and related topics.
 
 ## Skills
 
