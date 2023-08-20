@@ -1,12 +1,13 @@
 # Alexcitten
 
-Hi there! I'm Alexcitten, a friendly and sociable programmer with good objective and logical thinking. I'm passionate about self-development, learning English and having fun. 
+Friendly and sociable programmer with good objective and logical thinking.<br>
+I'm passionate about self-development, learning English and having fun :)
 
 ## About me
 
-I started my journey in programming by developing Discord bots. Currently, I'm working on web3-related bots using decentralised systems for bot functionality that can do interesting things in centralised messengers. I'm actively involved in one side of the interaction with unique smart contracts for the NFT marketplace.
-
-Despite my young age(14), I take my work seriously and can easily discuss collaborations, projects, and related topics.
+I started by developing Discord bots. Currently I'm developing web3 related bots, using decentralised systems for bot functionality that can do very interesting things in centralised messengers.
+I am working on one side of the interaction with the unique smart contracts for the NFT market place.
+Despite my young age, I take my work seriously and can easily discuss collaborations, projects, and related topics.
 
 ## Skills
 
@@ -22,7 +23,7 @@ Despite my young age(14), I take my work seriously and can easily discuss collab
 
 - Russian (C1)
 - Ukrainian (C2)
-- English (A2)
+- English (A2, Intermediate)
 
 ## Find me on
 
