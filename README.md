@@ -1,21 +1,14 @@
 # Alexcitten
 
-Friendly and sociable programmer with good objective and logical thinking.<br>
-I'm passionate about self-development, learning English and having fun :)
+Energetic and approachable coder with a knack for clear, logical thinking. I'm always on the lookout for ways to improve myself, whether it's mastering English and Finnish or exploring new technologies.
 
-## About me
+My journey started with crafting Discord bots, but I've since delved into the world of web3 and decentralized systems. Now, I'm creating cutting-edge bots that do amazing things within centralized messaging platforms, thanks to decentralized networks.
 
-I started by developing Discord bots. Currently I'm developing web3 related bots, using decentralised systems for bot functionality that can do very interesting things in centralised messengers.
-I am working on one side of the interaction with the unique smart contracts for the NFT market place.
-Despite my young age, I take my work seriously and can easily discuss collaborations, projects, and related topics.
+Currently, my focus is on building an innovative web3 apps on the Arweave native ecosystem. I'm busy developing smart contracts, scripts, and leading marketing efforts for groundbreaking projects.
 
-## Skills
+Despite my age, I bring a mature and professional attitude to my work, backed by a solid educational background. I'm comfortable discussing collaborations, projects, and managing workflows efficiently.
 
-- JavaScript and Node.js
-- Smart-Contracts
-- Arweave
-- Task distribution
-- Figma (for creating banners)
+With my diverse skill set and broad range of interests, I bring a unique perspective to my work.
 
 # [Portfolio & Resume](https://alexcitten.dev)
 
@@ -27,8 +20,6 @@ Despite my young age, I take my work seriously and can easily discuss collaborat
 
 ## Find me on
 
-- [GitHub](https://github.com/Alexcitten)
-- [Twitter](https://twitter.com/alexcitten)
 - [Discord](https://discord.com/users/397340488438513664)
 - [Instagram](https://www.instagram.com/alex.kraa/)
 - [Telegram](https://t.me/alexcitten)
