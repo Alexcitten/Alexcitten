@@ -1,14 +1,16 @@
 # Alexcitten
 
-Energetic and approachable coder with a knack for clear, logical thinking. I'm always on the lookout for ways to improve myself, whether it's mastering English and Finnish or exploring new technologies.
+I thrive on critical thinking and constantly explore new technologies.
 
-My journey started with crafting Discord bots, but I've since delved into the world of web3 and decentralized systems. Now, I'm creating cutting-edge bots that do amazing things within centralized messaging platforms, thanks to decentralized networks.
+My journey started with developing Discord bots, which grew into a passion for Web3 and decentralized systems. I built advanced bots integrated with decentralized networks.
 
-Currently, my focus is on building an innovative web3 apps on the Arweave native ecosystem. I'm busy developing smart contracts, scripts, and leading marketing efforts for groundbreaking projects.
+I specialize in JavaScript development for Web3 and bots, as well as creating APIs and SDKs. My work involves writing detailed specifications, designing diagrams, and preparing documents for securing external funding from investors. I also create pitch decks to present ideas clearly.
 
-Despite my age, I bring a mature and professional attitude to my work, backed by a solid educational background. I'm comfortable discussing collaborations, projects, and managing workflows efficiently.
+As the founder of future high-tier Web3 project, I manage both strategic and technical aspects. Currently, I’m working on a comprehensive project specification, covering architecture, technical requirements, and user flows. This includes whitepapers, technical roadmaps, and legal documents related to intellectual property and partnerships.
 
-With my diverse skill set and broad range of interests, I bring a unique perspective to my work.
+Despite my age, I bring a professional and mature approach to every project. I am experienced in managing workflows, collaborating effectively, and ensuring efficient execution.
+
+With a diverse skill set and a fresh perspective, I am ready to make meaningful contributions to any innovative Web3 project.
 
 # [Portfolio & Resume](https://alexcitten.dev)
 
